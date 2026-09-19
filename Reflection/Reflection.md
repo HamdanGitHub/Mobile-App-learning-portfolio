@@ -4,7 +4,7 @@
 
 This learning portfolio documents my progress in learning Android application development through the Android Developers learning pathway. The learning activities covered four modules, beginning with basic programming and Android development concepts and progressing toward user interface development, application architecture, navigation, and adaptive user interfaces.
 
-The portfolio allowed me to combine theoretical learning with practical coding exercises, source-code implementation, screenshots, badge evidence, GitHub version control, and analytical discussions.
+The portfolio allowed me to combine theoretical learning with practical coding exercises, source-code implementation, screenshots, badges, GitHub version control, and analytical discussions.
 
 ---
 
